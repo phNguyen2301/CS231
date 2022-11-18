@@ -1,2 +1,3 @@
 # CS231
-Final Project for CS331 - Introduction to Computer Vision
+
+Final Project for CS231 - Introduction to Computer Vision
